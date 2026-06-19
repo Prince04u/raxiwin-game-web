@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" role="img" aria-label="raxiwin logo">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#19e3c4"/>
+      <stop offset="1" stop-color="#0fbfa6"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="2" y="6" width="44" height="44" rx="12" fill="url(#rg)"/>
+    <path d="M14 40 L22 16 L26 16 L34 40 L29 40 L27.4 35 L20.6 35 L19 40 Z M21.8 31 L26.2 31 L24 23.5 Z" fill="#06241f"/>
+    <circle cx="36" cy="18" r="3.4" fill="#ffc94d"/>
+  </g>
+  <text x="56" y="37" font-family="system-ui,Segoe UI,Roboto,Arial,sans-serif" font-size="28" font-weight="800" fill="#ffffff">raxi<tspan fill="#19e3c4">win</tspan></text>
+</svg>
